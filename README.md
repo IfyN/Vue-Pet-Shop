@@ -1,9 +1,6 @@
 # Vue-Pet-Shop
 A VueJS project i undertook at a VueJS meetup that held recently.
 
-# Pet Shop
-
-Starter code for My pet shop app. This basic app was used for the Vue Vixens code lab.
 
 ## Project setup
 
