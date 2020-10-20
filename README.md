@@ -1,6 +1,5 @@
 # Vue-Pet-Shop
-A VueJS project i undertook at a VueJS meetup that held recently.
-
+A Pet shop created using vuejs
 
 ## Project setup
 
